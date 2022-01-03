@@ -1,4 +1,3 @@
-##
 # **Last Man Flying**
 
 **Complete System Project**
@@ -22,17 +21,6 @@ Krzysztof Łazarz, Bartłomiej Tarcholik
 
 Jako gra stworzona na komputery osobiste oraz urządzenia z systemem Android, Last Man Flying jest oprogramowaniem rozrywkowym. Dzięki zaimplementowaniu bazy danych w chmurze, gra jest wieloplatformowa, co pozwala na tworzenie turniejów niezależnie od tego, czy uczestnicy korzystają z telefonu, czy z komputera. Działanie oprogramowania na Androidzie pozwala na granie w dowolnym miejscu, a dzięki użyciu bazy danych, która pozostaje ciągle on-line, również o każdym czasie.
 
-### Diagramy encji i relacji
-
-## Relacje:
-
-![](RackMultipart20220103-4-1w5m8op_html_2760229d80cd74f0.png)
-
-## Encje:
-
-![](RackMultipart20220103-4-1w5m8op_html_27f105f6143b04f8.png)
-
-##
 ### Narzędzia
 
 Visual Studio Community
@@ -72,18 +60,6 @@ Pola tekstowe są podpinane w odwrotny sposób. Najpierw tworzy się instancje s
 #### Player Manager
 
 Kontrola gracza to podstawowy element gry i odbywa się on przez przekazywanie odczytu z klawiatury do skryptu gracza, który wykonuje adekwatne akcje.
-
-### GUI
-
-Poniżej prezentujemy szkic interfejsu graficznego. Przyjęliśmy skalę jak na smartfony, na komputerze ikonki będą zdecydowanie mniejsze.
-
-Panel Logowania:
-
-![](RackMultipart20220103-4-1w5m8op_html_20833323665ab99f.png)
-
-Garaż:
-
-![](RackMultipart20220103-4-1w5m8op_html_45af06b61a5ae104.png)
 
 ## Struktury danych
 
@@ -135,9 +111,6 @@ Dodatkowo posiada informacje o :
 Dodatkowo posiada informacje o :
 
 - Pojemności
-
-###
-
 
 ### Technologie
 
