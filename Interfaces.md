@@ -74,5 +74,7 @@ Dodatkowo posiada informacje o:
 #### Struktura zbiornika
 
 Dodatkowo posiada informacje o:
-
 - Pojemności
+
+### Strona główna
+[Strona główna](README.md)
