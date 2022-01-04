@@ -28,9 +28,13 @@ Jako gra stworzona na komputery osobiste oraz urządzenia z systemem Android, La
 
 ### Narzędzia
 Visual Studio Community
+
 Unity Editor 2019.4 LTS
+
 GitHub
+
 Google Drive
+
 diagrams.net
 
 ### Technologie
