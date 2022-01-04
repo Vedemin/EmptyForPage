@@ -1,4 +1,6 @@
 # **Interfejsy i Struktury danych**
+### Powrót do strony głównej
+[Strona główna](README.md)
 
 ## Interfejsy
 
@@ -75,6 +77,3 @@ Dodatkowo posiada informacje o:
 
 Dodatkowo posiada informacje o:
 - Pojemności
-
-### Strona główna
-[Strona główna](README.md)

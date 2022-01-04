@@ -1,5 +1,8 @@
 # **Analiza ryzyka**
 
+### Powrót do strony głównej
+[Strona główna](README.md)
+
 | **Zagrożenie** | **Prawdopodobieństwo wystąpienia** | **Skutki** | **Wpływ zagrożenia na projekt** | **Ruch Zapobiegawczy** | **Działania profilaktyczne** |
 | --- | --- | --- | --- | --- | --- |
 | Utrata lokalnych zmian | Umiarkowane | Konieczność odtworzenia utraconych danych | Niewielki | Łagodzenie ryzyka | Regularne wysyłanie danych na repozytorium Git |
@@ -15,6 +18,3 @@
 | Maintenance-break Githuba | Umiarkowane | Brak dostępu do synchronizacji | Niewielki | Akceptacja ryzyka | Brak działań profilaktycznych |
 | Maintenance-break Facebooka | Niemal pewne | Brak dostępu do komunikatora | Pomijalny | Łagodzenie ryzyka | Wykorzystywanie Discorda oraz Telegrama jako zapasowych możliwości komunikacji |
 | Maintenance-break Google Drive | Niskie | Brak dostępu do dokumentacji | Niewielki | Akceptacja ryzyka | Lokalne backupy rozwiązują problem dostępu, jednak wspólne tworzenie dokumentów jest niemożliwe |
-
-### Strona główna
-[Strona główna](README.md)
